@@ -36,5 +36,17 @@ function multiply(a, b){
 ## Education
 * University: Khmelnitskyi National University, Mechanical Engineering, Master's degree
 * Courses:
-** BrainBasket Foundation: “CS50's Introduction to Computer Science”
+    + BrainBasket Foundation: “CS50's Introduction to Computer Science”
+    + QATestLab training and consulting center: “Software testing”
+    + HTML Academy
+---
+## Languages
+* Ukranian - Native
+* Russian - Fluent
+* English - Intermediate/Upper-intermediate (https://www.efset.org/score/quickcheck/82?cid=ss010)
+
+
+![Efset score](https://i2.piccy.info/i9/4e422b88d8d38e0c853e3273ce2da52b/1641204865/187989/1447312/download.png)
+
+
 
